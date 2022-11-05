@@ -36,7 +36,7 @@ Actualmente trabajo en sistemas complejos, materia granular y biofísica.
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=manuxch&show_icons=true&count_private=true&include_all_commits=true&theme=transparent" />
-  <img width="50.3%" src="https://github-readme-stats-peach-two.vercel.app/api/wakatime?username=manuxch&layout=compact&langs_count=8&theme=dracula" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuxch&exclude_repo=github-readme-stats,manuxch.github.io&hide=javascript,html,css&layout=compact&theme=transparent" />
 </p>
 
 <p align="center">
