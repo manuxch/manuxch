@@ -34,19 +34,17 @@ Actualmente trabajo en sistemas complejos, materia granular y biofísica.
 
 ##
 
-[![Manux's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuxch)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sleepymalc&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" />
-  <img width="50.3%" src="https://github-readme-stats-peach-two.vercel.app/api/wakatime?username=sleepymalc&layout=compact&langs_count=8&theme=dracula" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=manuxch&show_icons=true&count_private=true&include_all_commits=true&theme=transparent" />
+  <img width="50.3%" src="https://github-readme-stats-peach-two.vercel.app/api/wakatime?username=manuxch&layout=compact&langs_count=8&theme=dracula" />
 </p>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/sleepymalc/sleepymalc/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/sleepymalc/manuxch/output/github-contribution-grid-snake.svg" />
 </p>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/sleepymalc/count.svg" />
+  <img src="https://profile-counter.glitch.me/manuxch/count.svg" />
 </p>
-<p align="center"><a href=https://www.pbb.wtf>pbb.wtf</a> | <a href="https://scholar.google.com/citations?user=TXqLUIAAAAAJ&hl=en&oi=ao">Google Scholar</a> | <a href="https://www.linkedin.com/in/pingbang-hu-78a190215/">LinkedIn</a> </p>
+<p align="center"><a href=https://carlevaro.ar>carlevaro.ar</a> | <a href="https://scholar.google.com/citations?user=FoBqqJgAAAAJ=en&oi=ao">Google Scholar</a>  </p>
 
 
 <!---
