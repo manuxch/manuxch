@@ -1,4 +1,4 @@
-¡Hola!
+**¡Hola!**
 
 Soy **Investigador Independiente** en CONICET y **Profesor Titular** en la Universidad Tecnológica Nacional. Mi formación académica consiste en:
 * Doctor de la Facultad de Ciencias Exactas, Universidad Nacional de La Plata
