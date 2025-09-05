@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> ¡Hola!
+¡Hola!
 
 Soy **Investigador Independiente** en CONICET y **Profesor Titular** en la Universidad Tecnológica Nacional. Mi formación académica consiste en:
 * Doctor de la Facultad de Ciencias Exactas, Universidad Nacional de La Plata
