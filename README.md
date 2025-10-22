@@ -7,7 +7,7 @@ Soy **Investigador Independiente** en CONICET y **Profesor Titular** en la Unive
 Actualmente trabajo en sistemas complejos, materia granular y biofísica. 
 
 
-## 🦾 Aptitudes
+## Aptitudes
 
 <div align="center">
 
