@@ -34,11 +34,6 @@ Actualmente trabajo en sistemas complejos, materia granular y biofísica.
 
 ##
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=manuxch&show_icons=true&count_private=true&include_all_commits=true&theme=transparent" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuxch&exclude_repo=github-readme-stats,manuxch.github.io&hide=javascript,html,css&layout=compact&theme=transparent" />
-</p>
-
 <p align="center"><a href=https://carlevaro.ar>carlevaro.ar</a> | <a href="https://scholar.google.com/citations?user=FoBqqJgAAAAJ=en&oi=ao">Google Scholar</a>  </p>
 
 
